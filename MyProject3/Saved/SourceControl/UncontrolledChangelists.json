@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Craig Williams/OneDrive/Desktop/circuit stream/Unreal Projects/MyProject3/Content/UI/Paintbrush_wb.uasset",
+				"C:/Users/Craig Williams/OneDrive/Desktop/circuit stream/Unreal Projects/MyProject3/Content/FirstPerson/Blueprints/BP_FirstPersonPlayerController.uasset",
+				"C:/Users/Craig Williams/OneDrive/Desktop/circuit stream/Unreal Projects/MyProject3/Content/Materials/Canvas_Mat.uasset",
+				"C:/Users/Craig Williams/OneDrive/Desktop/circuit stream/Unreal Projects/MyProject3/Content/Materials/Brush_Mat.uasset",
+				"C:/Users/Craig Williams/OneDrive/Desktop/circuit stream/Unreal Projects/MyProject3/Content/Blueprints/Canvas_BP.uasset",
+				"C:/Users/Craig Williams/OneDrive/Desktop/circuit stream/Unreal Projects/MyProject3/Content/FirstPerson/Input/Actions/IA_Paint.uasset",
+				"C:/Users/Craig Williams/OneDrive/Desktop/circuit stream/Unreal Projects/MyProject3/Content/FirstPerson/Input/IMC_Default.uasset",
+				"C:/Users/Craig Williams/OneDrive/Desktop/circuit stream/Unreal Projects/MyProject3/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Craig Williams/OneDrive/Desktop/MyProject3/Content/StarterContent/Architecture/Floor_400x400.uasset"
+			]
+		}
+	]
+}
